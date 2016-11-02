@@ -1,2 +1,2 @@
 # SharePointEngage2016
-Query String Presentation
+Presentation for The Humble & Mighty SharePoint Query String!
